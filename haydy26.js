@@ -30,11 +30,6 @@ z-index: 0 !important;
   margin-top: 24px;
   margin-left: 0px;
 }
-#users .uzr.haydy1 img.co {
-  transform: rotate(90deg);
-  margin-top: -60px !important;
-  margin-right: 282px;
-}
 #users .uzr.haydy1 {
     background-size: 100%;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
