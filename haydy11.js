@@ -72,7 +72,4 @@ var l_itvhaydy=setInterval(function(){
         $("#users .uzr:contains('ــــــ')").addClass('haydy1');
         $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/02/167579621323341.png">');
         $("#upro").modal("hide");
-    } ); 
-});
-    }
-}, 10000);
+10000);
