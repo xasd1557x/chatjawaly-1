@@ -2,7 +2,7 @@
 $("style").last().append(`
 #users .uzr.haydy1 .fitimg.u-pic {
   border-radius: 100px !important;
-  margin-top: 2px !important;
+  margin-top: 10px !important;
   height: 55px !important;
   margin-left: -5px !important;
   width: 55px;
