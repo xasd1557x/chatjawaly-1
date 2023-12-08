@@ -13,7 +13,7 @@ $("style").last().append(`
 }
 #users .uzr.haydy1 .u-msg {
     text-align: center;
-    background-image: url(https://up6.cc/2023/12/170162505647371.gif);margin-right: 3px!important;
+    background-image: url(https://up6.cc/2023/12/170207118685932.gif);margin-right: 3px!important;
     margin-left: 2px!important;
     margin-top: 10px!important;
     margin-bottom: 10px!important;-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;background-size: 170% auto;
@@ -38,7 +38,7 @@ z-index: 0 !important;
 #users .uzr.haydy1 {
     background-size: 100%;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
-    background-image: url(https://up6.cc/2023/12/170171058180011.jpg);
+    background-image: url(https://up6.cc/2023/12/170207118743833.gif);
     margin-right: 0px!important;
     margin-left: 0px!important;
     margin-top: 2px!important;
@@ -49,7 +49,7 @@ z-index: 0 !important;
   float: left;
 }
 #users .uzr.haydy1 .light.fl.pro.break {
-background-image: url(https://up6.cc/2023/12/170171058180011.jpg);
+background-image: url(https://up6.cc/2023/12/170207118749494.png);
 }
 #users .uzr.haydy1 .d-flex.fl {
   padding-right: 0px !important;
@@ -70,7 +70,7 @@ var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
         $("#users .uzr:contains('ــــــ')").addClass('haydy1');
-        $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/02/167579621323341.png">');
+        $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
