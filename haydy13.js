@@ -74,6 +74,5 @@ var l_itvhaydy=setInterval(function(){
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
-});
     }
 }, 10000);
