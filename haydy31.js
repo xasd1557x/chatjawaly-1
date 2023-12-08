@@ -43,6 +43,10 @@ z-index: 0 !important;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
     }
+#users .uzr.haydy1 .c-flex.fr {
+  height: 0px !important;
+  margin-left: -4px!important;
+}    
 #users .uzr.haydy1 .light.fl.pro.break {
 background-image: url(https://up6.cc/2023/12/170207118749494.png);
 }
