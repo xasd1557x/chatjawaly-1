@@ -59,9 +59,9 @@ background-image: url(https://up6.cc/2023/12/170207118749494.png);
 }
 #users .uzr.haydy1 .haydy_i6ar1 {
 width: 65px;
-margin-top: -2px;
+margin-top: 0px;
 height: 69px;
-margin-left: -4px;
+margin-left: 4px;
 }
 
 
