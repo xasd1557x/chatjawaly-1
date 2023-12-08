@@ -61,7 +61,7 @@ width: 75px;
 margin-top: -12px;
 height: 79px;
 margin-left: -10px;
-background-size: cover;
+background-size: 100% auto;
 }
 
 
