@@ -67,7 +67,9 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
   padding-right: 0px !important;
 }
 #users .uzr.haydy1 .u-topic {
-  background-size: color: #transparent!important;
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	color: transparent !important;
   margin-left: 5px;
 }
 #users .uzr.haydy1 .haydy_i6ar1 {
