@@ -23,7 +23,9 @@ width: 12px !important;
 border-radius: 5px 0px 5px 0px;
 height: 12px !important;
 min-height: 0% !important;
-z-index: 0 !important;
+margin-top: 2px!important;
+border: 1px solid #fff;
+box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
 #users .uzr.haydy1 span.uhash {
   margin-right: 324px;
