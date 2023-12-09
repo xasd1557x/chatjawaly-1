@@ -15,8 +15,8 @@ $("style").last().append(`
     text-align: center;
     background-image: url(https://up6.cc/2023/12/170207118685932.gif);margin-right: 3px!important;
     margin-left: 2px!important;
-    margin-top: 9px!important;
-    margin-bottom: 9px!important;-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;background-size: 170% auto;
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;background-size: 170% auto;
     }
 #users .uzr.haydy1 .ustat {
 width: 12px !important;
