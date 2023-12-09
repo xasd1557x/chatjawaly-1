@@ -58,7 +58,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
   height: 0px !important;
   margin-left: -4px!important;
 }    
-#upro.haydy1 .light.fl.pro.break {
+#upro.uzr.haydy1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
     background-image: url(https://up6.cc/2023/12/170207118749494.png);
     background-size: 100%;
