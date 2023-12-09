@@ -46,7 +46,8 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
     }
-#users .uzr.haydy1.d-flex.mm.milpy58zhq00 {border-radius: 5px 5px 5px 5px;
+#users .uzr.haydy1.d-flex.mm {
+    border-radius: 5px 5px 5px 5px;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
     border-bottom: 0.5px solid #787878!important;
