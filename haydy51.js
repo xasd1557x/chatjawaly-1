@@ -58,7 +58,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
   height: 0px !important;
   margin-left: -4px!important;
 }    
-#upro.haydy1 .light.fl.pro.break {
+#usershaydy1 .light.fl.pro.break {
 background-image: url(https://up6.cc/2023/12/170207118749494.png);
 }
 #users .uzr.haydy1 .d-flex.fl {
