@@ -40,7 +40,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 #users .uzr.haydy1 {
     background-size: 100% auto;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
-    background-image: url(https://up6.cc/2023/12/170207118743833.gif);
+    background-image: url(https://up6.cc/2023/12/170215409754861.gif);
     margin-right: 0px!important;
     margin-left: 0px!important;
     margin-top: 2px!important;
@@ -85,7 +85,7 @@ background-size: 100%;
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users .uzr:contains('ــــــ')").addClass('haydy1');
+        $("#users .uzr:contains('⠀ ▪︎⠀ 	')").addClass('haydy1');
         $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
