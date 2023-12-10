@@ -58,10 +58,18 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
   height: 0px !important;
   margin-left: -4px!important;
 }    
-#upro.uzr.haydy1 .light.fl.pro.break {
-    background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
-    background-image: url(https://up6.cc/2023/12/170207118749494.png);
+#upro.haydy1 .light.fl.pro.break {
+    background-image: url(https://up6.cc/2023/12/170215305562121.jpg);
     background-size: 100%;
+}
+#d2 .uzr.d-flex.mm.pmsgc.haydy1 {
+    background-image: url(https://up6.cc/2023/12/17021520897861.jpg);
+    background-size: cover;
+    border: 1px solid #fff;
+    box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+    margin-bottom: 3px !important;
+    margin-top: 2px !important;
+    background-color: #16202a00 !important;
 }
 #users .uzr.haydy1 .d-flex.fl {
   padding-right: 0px !important;
@@ -85,7 +93,7 @@ background-size: 100%;
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users .uzr:contains('⠀ ▪︎ّ⠀ ')").addClass('haydy1');
+        $("#users .uzr:contains('.0...0.')").addClass('haydy1');
         $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
