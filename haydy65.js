@@ -93,7 +93,7 @@ background-size: 100%;
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users .uzr:contains('.0...0.')").addClass('haydy1');
+        $("#users .uzr:contains('																			 ⠀⠀⠀LÂ VÎDA')").addClass('haydy1');
         $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
