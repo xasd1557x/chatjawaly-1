@@ -82,7 +82,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users .uzr:contains('⠀ ▪︎ّ⠀ ')").addClass('haydy1');
+        $("#users .uzr:contains('.0...0.')").addClass('haydy1');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
