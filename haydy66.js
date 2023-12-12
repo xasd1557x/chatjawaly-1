@@ -1,11 +1,7 @@
 
 $("style").last().append(`
-#users .uzr.haydy1 .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 10px !important;
-  height: 55px !important;
-  margin-left: -5px !important;
-  width: 55px;
+#users .uzr.haydy1 .fitimg.u-pic {width: 58px !important;
+    height: 58px !important;border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;margin-top: 5px!important;margin-bottom: 4px!important;
 }
 #users .uzr.haydy1 .d-flex.dots {
   margin-top: 7px !important;
@@ -46,7 +42,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
     }
-#users .uzr.haydy1.d-flex.mm.milpy6dqjz00 {
+#users .uzr.haydy1.d-flex.mm {
     border-radius: 5px 5px 5px 5px;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
@@ -80,21 +76,13 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 	color: transparent !important;
   margin-left: 5px;
 }
-#users .uzr.haydy1 .haydy_i6ar1 {
-width: 75px;
-margin-top: -12px;
-height: 79px;
-margin-left: -10px;
-background-size: 100%;
-}
 
 
 `);
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users .uzr:contains('																			 ⠀⠀⠀LÂ VÎDA')").addClass('haydy1');
-        $("#users .uzr.haydy1 .fitimg.u-pic").append('<img class="haydy_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
+        $("#users .uzr:contains('⠀ ▪︎ّ⠀ ')").addClass('haydy1');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
