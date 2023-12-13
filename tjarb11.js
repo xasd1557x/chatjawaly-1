@@ -10,4 +10,5 @@ setInterval(function () {
     if(myid!=null){
         clearInterval(l_itvhaydy);
         $("#upro.uzr:contains('هااوي')").addClass('haydy2');
+        }
     }, 10);
