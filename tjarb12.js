@@ -30,7 +30,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
   margin-top: 24px;
   margin-left: 0px;
 }
-#users .uzr.haydy2 img.co {
+#users .haydy2 img.co {
   margin-top: 0px !important;
   margin-right: 100px;
 }
