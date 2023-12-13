@@ -25,16 +25,16 @@ margin-top: 5px!important;
 border: 1px solid #fff;
 box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
-#users .haydy2 span.uhash {
+#users .uzr.haydy2 span.uhash {
   margin-right: 324px;
   margin-top: 24px;
   margin-left: 0px;
 }
-#users .haydy2 img.co {
+#users .uzr.haydy2 img.co {
   margin-top: 0px !important;
   margin-right: 100px;
 }
-#users .haydy2 {
+#users .uzr.haydy2 {
     background-size: 100% auto;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
     background-image: url(https://up6.cc/2023/12/170215491418873.gif);
@@ -43,7 +43,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
     }
-#users .haydy2.d-flex.mm {
+#users .uzr.haydy2.d-flex.mm {
     border-radius: 5px 5px 5px 5px;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
@@ -51,18 +51,18 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
     border: 0.5px solid #787878;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #acacac;
     }    
-#users .haydy2 .c-flex.fr {
+#users .uzr.haydy2 .c-flex.fr {
   height: 0px !important;
   margin-left: -4px!important;
 }    
-#upro.haydy2 .light.fl.pro.break {
+#upro.haydy2 .uzr.light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170215305562121.jpg);
     background-size: 100%;
 }
-#users .haydy2 .d-flex.fl {
+#users .uzr.haydy2 .d-flex.fl {
   padding-right: 0px !important;
 }
-#users .haydy2 .u-topic {
+#users .uzr.haydy2 .u-topic {
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
 	color: transparent !important;
@@ -74,9 +74,6 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users, #upro :contains('هاوي')").addClass('haydy2');
-        $("#ifr_mov1").show(function(){
-        $("#upro").modal("hide");
-    } ); 
+        $("#users.uzr:contains('هاوي')").addClass('haydy2');
     }
 }, 10000);
