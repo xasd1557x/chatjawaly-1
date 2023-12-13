@@ -73,6 +73,6 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 var l_itvhaydy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhaydy);
-        $("#users :contains('هااوي')").addClass('haydy2');
+        $("#upro :contains('هااوي')").addClass('haydy2');
     }
 }, 10000);
