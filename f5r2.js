@@ -328,7 +328,7 @@ button.rsave.btn.btn-primary.fl.room_f5r1 {
 `);
 var room_f5r = false;
 setInterval(function () {
-    if (myroom == '18a33a7ec04x6785cd25-xqs7o3u') {
+    if (myroom == '18d186b865ax63f8b863-xgsznn6') {
         if (room_f5r == false) {
             room_f5r = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('room_f5r1');
