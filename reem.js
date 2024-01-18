@@ -74,7 +74,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 var l_itvreem=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvreem);
-        $("#users .uzr:contains('رٍيَـــم الُــغــلُا')").addClass('reem2');
+        $("#users .uzr:contains('رٍيَـــم الُــغــلُا⠀.⠀ ▪︎ّ⠀')").addClass('reem2');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
